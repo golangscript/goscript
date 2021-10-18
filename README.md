@@ -1,0 +1,2 @@
+# goscript
+Scriptable of Golang!
